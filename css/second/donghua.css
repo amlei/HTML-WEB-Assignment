@@ -1,0 +1,50 @@
+#lef{
+    float:left;
+    height:auto;
+    width:8%;
+    margin: auto;
+    position:fixed;
+    border:2px solid rgb(63,187,255);
+    border-radius:15px;
+}
+#lef ul li{
+    color:rgb(63,187,255);
+    list-style: none;
+}
+#lef ul li a:link,a:visited{
+    color:rgb(63,187,255);
+    text-decoration:none;
+}
+#lef ul li a:hover{
+    color:#FFF;
+}
+.texte{
+    margin:auto;
+    position:fixed;
+    margin:auto auto auto 90%;
+        float:right;
+}
+.texte ul li{
+    color:rgb(63,187,255);
+    list-style:none;
+    font-weight:bold;
+    font-size:25px;
+}
+#funlly{
+    margin: -100px 15% -20px 15%;
+    width:80%;
+    height:20%;
+
+}
+#funlly ol li{
+    float:left;
+    list-style: none;
+    padding:5%;
+}
+#funlly ol li a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+#funlly ol li a:hover{
+    background:rgb(63,187,255);
+}

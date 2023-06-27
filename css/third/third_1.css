@@ -1,0 +1,343 @@
+#bodyy_1{
+    width:100%;
+    background-size:100%;
+    list-style-type:none;
+    float:left;
+    clear:both;
+}
+#bodyy_1 ul li{
+    margin:auto -1% auto -1%;
+    list-style: none;
+    color:#FFF;
+    text-align:center;
+    float:left;
+    padding:60px;
+}
+#bodyy_1 h1{
+    margin:auto 43% auto 43%;
+    color:#FFF;
+}
+.one1{
+    color:#FFF;
+    float:left;
+    margin:240px auto auto -40px;
+    font-family:"sonti";
+    font-size:15px;
+}
+.one1 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.one1 a:hover{
+    background:rgb(63,187,255)
+}
+.two1{
+    color:#FFF;
+    float:left;
+    margin:280px auto auto -3%;
+    font-family:"sonti";
+    font-size:15px;
+}
+.two1 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.two1 a:hover{
+    background:rgb(63,187,255)
+}
+.three1{
+    color:#FFF;
+    float:left;
+    margin:300px auto auto -45px;
+    font-family:"sonti";
+    font-size:15px;
+}
+.three1 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.three1 a:hover{
+    background:rgb(63,187,255);
+}
+/*内容二 科幻 结束*/
+
+/*内容三 动画 开始*/
+#bodyy_2{
+    width:100%;
+    background-size:100%;
+    list-style-type:none;
+    float:left;
+    clear:both;
+}
+#bodyy_2 ul li{
+    margin:auto -1% auto -1%;
+    list-style: none;
+    color:#FFF;
+    text-align:center;
+    float:left;
+    padding:60px;
+}
+#bodyy_2 h1{
+    margin:auto 43% auto 43%;
+    color:#FFF;
+}
+.one2{
+    color:#FFF;
+    float:left;
+    margin:260px auto auto -40px;
+    font-family:"sonti";
+    font-size:15px;
+}
+.one2 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.one2 a:hover{
+    background:rgb(63,187,255)
+}
+.two2{
+    color:#FFF;
+    float:left;
+    margin:320px auto auto -3%;
+    font-family:"sonti";
+    font-size:15px;
+}
+.two2 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.two2 a:hover{
+    background:rgb(63,187,255)
+}
+.three2{
+    color:#FFF;
+    float:left;
+    margin:300px auto auto -45px;
+    font-family:"sonti";
+    font-size:15px;
+}
+.three2 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.three2 a:hover{
+    background:rgb(63,187,255);
+}
+/*内容三 动漫 结束*/
+/*内容四 历史 开始*/
+#bodyy_3{
+    width:100%;
+    background-size:100%;
+    list-style-type:none;
+    float:left;
+    clear:both;
+}
+#bodyy_3 ul li{
+    margin:auto 1% auto 1%;
+    list-style: none;
+    color:#FFF;
+    text-align:center;
+    float:left;
+    padding:60px;
+}
+#bodyy_3 h1{
+    margin:auto 43% auto 43%;
+    color:#FFF;
+}
+.one3{
+    color:#FFF;
+    float:left;
+    margin:280px auto auto -75px;
+    font-family:"sonti";
+    font-size:15px;
+}
+.one3 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.one3 a:hover{
+    background:rgb(63,187,255)
+}
+.two3{
+    color:#FFF;
+    float:left;
+    margin:300px auto auto -5%;
+    font-family:"sonti";
+    font-size:15px;
+}
+.two3 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.two3 a:hover{
+    background:rgb(63,187,255)
+}
+.three3{
+    color:#FFF;
+    float:left;
+    margin:280px auto auto -75px;
+    font-family:"sonti";
+    font-size:15px;
+}
+.three3 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.three3 a:hover{
+    background:rgb(63,187,255);
+}
+/*内容四 历史 结束*/
+/*内容五 演员 开始*/
+#bodyy_4{
+    width:100%;
+    background-size:100%;
+    list-style-type:none;
+    float:left;
+    clear:both;
+}
+#bodyy_4 ul li{
+    margin:auto 1% auto 1%;
+    list-style: none;
+    color:#FFF;
+    text-align:center;
+    float:left;
+    padding:60px;
+}
+#bodyy_4 h1{
+    margin:auto 43% auto 43%;
+    color:#FFF;
+}
+.one4{
+    color:#FFF;
+    float:left;
+    margin:280px auto auto -220px;
+    font-family:"sonti";
+    font-size:15px;
+}
+.one4 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.one4 a:hover{
+    background:rgb(63,187,255)
+}
+.two4{
+    color:#FFF;
+    float:left;
+    margin:280px auto auto -15%;
+    font-family:"sonti";
+    font-size:15px;
+}
+.two4 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.two4 a:hover{
+    background:rgb(63,187,255)
+}
+.three4{
+    color:#FFF;
+    float:left;
+    margin:280px auto auto -240px;
+    font-family:"sonti";
+    font-size:15px;
+}
+.three4 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.three4 a:hover{
+    background:rgb(63,187,255);
+}
+.four4{
+    color:#FFF;
+    float:left;
+    margin:280px auto auto -220px;
+    font-family:"sonti";
+    font-size:15px;
+}
+.four4 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.four4 a:hover{
+    background:rgb(63,187,255);
+}
+.five4{
+    color:#FFF;
+    float:left;
+    margin:280px auto auto -220px;
+    font-family:"sonti";
+    font-size:15px;
+}
+.five4 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.five4 a:hover{
+    background:rgb(63,187,255);
+}
+.six4{
+    color:#FFF;
+    float:left;
+    margin:280px auto auto -200px;
+    font-family:"sonti";
+    font-size:15px;
+}
+.six4 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.six4 a:hover{
+    background:rgb(63,187,255);
+}
+.seven4{
+    color:#FFF;
+    float:left;
+    margin:280px auto auto -200px;
+    font-family:"sonti";
+    font-size:15px;
+}
+.seven4 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.seven4 a:hover{
+    background:rgb(63,187,255);
+}
+.eight4{
+    color:#FFF;
+    float:left;
+    margin:280px auto auto -220px;
+    font-family:"sonti";
+    font-size:15px;
+}
+.eight4 a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+.eight4 a:hover{
+    background:rgb(63,187,255);
+}
+#bodyy_4 #img4 ul li img{
+    border-radius:50%;
+}
+/*内容五 演员 结束*/
+#funlly{
+    margin:2000px auto auto auto;
+    width:80%;
+    height:20%;
+
+}
+#funlly ol li{
+    float:left;
+    list-style: none;
+    padding:3%;
+}
+#funlly ol li a:link,a:visited{
+    color:#FFF;
+    text-decoration:none;
+}
+#funlly ol li a:hover{
+    background:rgb(63,187,255);
+}
